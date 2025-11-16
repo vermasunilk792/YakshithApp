@@ -53,4 +53,4 @@ jobs:
           app-name: 'Sunil-appservice'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10465F0BCF614222A73EED5670E52580 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5026C6C6E09E4939B3952C815A22A16C }}
